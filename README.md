@@ -1,6 +1,7 @@
    # 𝐂𝐀𝐒𝐏𝐄𝐑-𝐌𝐃
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="[https://readme-typing-svg.demolab.com/?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I%27M+🅲🅰🆂🅿🅴🆁-MD;Multi+Divice+Whatsapp+Bot;Coded+By+TRABY+QRIZ suersh" alt="Typing SVG" /></a>
+<a href="
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+traby+qriz;This+is+casper+tech;Casper-md)](https://git.io/typing-svg)
   
 <p align="center">  
   <a href="https://youtube.com/channel/UCLUS9v7q4JagAqIJ3eeMM8w">
